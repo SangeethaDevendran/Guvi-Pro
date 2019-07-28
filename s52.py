@@ -9,5 +9,5 @@ def maxOfSegmentMinimum(Lacs, necs, kins):
 necs,kins = map(int,input().split())
 Lacs = [ int(x) for x in input().split()]
 necs = len(Lacs)
-ans = maxOfSegmentMins(Lacs, necs, kins)
+ans = maxOfSegmentMinimum(Lacs, necs, kins)
 print(ans)
