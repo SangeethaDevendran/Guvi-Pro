@@ -22,4 +22,3 @@ if bht==0:
   print(-1)
 else:
   print(maht)
-© 2019 Git
